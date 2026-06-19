@@ -1,0 +1,8 @@
+{
+  "name": "Anime4up Extension",
+  "description": "Custom stream provider for Anime4up",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://anime4up.xyz"
+  ]
+}
