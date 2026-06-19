@@ -1,0 +1,8 @@
+{
+  "name": "AnimeZid Extension",
+  "description": "Custom stream provider for AnimeZid",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://animezid.cam"
+  ]
+}
